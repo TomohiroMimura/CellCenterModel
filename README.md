@@ -9,7 +9,7 @@ When executing, place one of them in the same hierarchy as the makefile.
 Then execute the following code.
 
     make
-    . /a.out
+    ./a.out
 
 
 
