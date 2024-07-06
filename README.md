@@ -17,3 +17,14 @@ Then execute the following code.
 Any published work which utilizes this code shall include the following reference:
 
 Tomohiro Mimura and Yasuhiro Inoue "Cell-center-based model for simulating three-dimensional monolayer tissue deformation", Journal of Theoretical Biology (2023) 
+```
+@article{MIMURA2023111560,
+    title = {Cell-center-based model for simulating three-dimensional monolayer tissue deformation},
+    journal = {Journal of Theoretical Biology},
+    volume = {571},
+    pages = {111560},
+    year = {2023},
+    issn = {0022-5193},
+    author = {Tomohiro Mimura and Yasuhiro Inoue}
+}
+```
