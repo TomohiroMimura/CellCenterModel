@@ -8,19 +8,19 @@ This is a program for a cell-centered model that represents the three-dimensiona
 
 | with cell rearrangement | without cell rearrangement |
 |----------|------|
-|[![](https://img.youtube.com/vi/QdJE2k9OQ_Q/0.jpg)](https://www.youtube.com/watch?v=QdJE2k9OQ_Q) | [![](https://img.youtube.com/vi/6llLcvThxZA/0.jpg)](https://www.youtube.com/watch?v=6llLcvThxZA) |
+|[![](https://img.youtube.com/vi/QdJE2k9OQ_Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=QdJE2k9OQ_Q) | [![](https://img.youtube.com/vi/6llLcvThxZA/maxresdefault.jpg)](https://www.youtube.com/watch?v=6llLcvThxZA) |
 
 ### out-of-plane deformation
 
 | uniaxial cell division | random cell division |
 |----------|------|
-| [![](https://img.youtube.com/vi/_A38DCdr_u4/0.jpg)](https://www.youtube.com/watch?v=_A38DCdr_u4)|[![](https://img.youtube.com/vi/3tw8Ug5oa7E/0.jpg)](https://www.youtube.com/watch?v=3tw8Ug5oa7E) |
+| [![](https://img.youtube.com/vi/_A38DCdr_u4/maxresdefault.jpg)](https://www.youtube.com/watch?v=_A38DCdr_u4)|[![](https://img.youtube.com/vi/3tw8Ug5oa7E/maxresdefault.jpg)](https://www.youtube.com/watch?v=3tw8Ug5oa7E) |
 
 ### apical constriction
 
 | circular pattern | circumferential pattern|
 |--------|---------|
-| [![](https://img.youtube.com/vi/AcwwKy-2Oyw/0.jpg)](https://www.youtube.com/watch?v=AcwwKy-2Oyw)| [![](https://img.youtube.com/vi/W1OMQtU5rZo/0.jpg)](https://www.youtube.com/watch?v=W1OMQtU5rZo)|
+| [![](https://img.youtube.com/vi/AcwwKy-2Oyw/maxresdefault.jpg)](https://www.youtube.com/watch?v=AcwwKy-2Oyw)| [![](https://img.youtube.com/vi/W1OMQtU5rZo/maxresdefault.jpg)](https://www.youtube.com/watch?v=W1OMQtU5rZo)|
 
 ## how to make and run ##
 Parameter files (parameters.hpp) for the three patterns are included in each directory.
